@@ -1,5 +1,7 @@
 // Minimum cost arborescence
 // http://www.cs.princeton.edu/courses/archive/spring13/cos423/lectures/04DemoEdmondsBranching.pdf
+// Problem : http://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2124
+// https://github.com/marioyc/Online-Judge-Solutions/blob/master/UVA/Contest%20Volumes/11183%20%20-%20Teen%20Girl%20Squad.cpp
 
 #include<bits/stdc++.h>
 using namespace std;
