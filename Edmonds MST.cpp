@@ -1,9 +1,7 @@
-#include <cstdio>
-#include <cstring>
-#include <climits>
-#include <cmath>
-#include <algorithm>
+// Minimum cost arborescence
+// http://www.cs.princeton.edu/courses/archive/spring13/cos423/lectures/04DemoEdmondsBranching.pdf
 
+#include<bits/stdc++.h>
 using namespace std;
 
 #define MAX_V 1000
